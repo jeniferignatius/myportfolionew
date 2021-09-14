@@ -1,0 +1,40 @@
+{
+    "Header": {
+
+        "title": "I am Jenifer",
+        "paragraph": "Front-End web developer"
+    },
+    "Skills": {
+        "paragraph": "I enjoy learning new skills daily."
+    },
+
+    "About": {
+        "paragraph": "I enjoy learning new skills daily.",
+        "Why": [
+            "Quick Learner",
+            "Self confidence",
+            "Own Initiative and Punctual",
+            "Trustworthy employee"
+        ],
+        "Why2": [
+            "Positive attitude to work.",
+            "Problem solving and Team work"
+        ]
+    },
+ "Projects": {
+        "github": "https://github.com/jeniferignatius",
+        "azure": "http://jeniferi.azurewebsites.net",
+        "etemplate": "https://jeniferignatius.github.io/Email_Templates/"
+
+       
+    },
+"Contact": {
+        "address": "Espoo",
+        "phone": "+358 401654765",
+        "email": "jeni.igni@gmail.com",
+        "github": "https://github.com/jeniferignatius",
+        "linkedin": "https://linkedin.com/jeniferignatius"
+    }
+    
+
+}
