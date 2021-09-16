@@ -24,7 +24,8 @@
  "Projects": {
         "github": "https://github.com/jeniferignatius",
         "azure": "http://jeniferi.azurewebsites.net",
-        "etemplate": "https://jeniferignatius.github.io/Email_Templates/"
+        "etemplate": "https://jeniferignatius.github.io/Email_Templates/",
+        "todoapp": "https://jeniferignatius.github.io/ReactTodoapp/"
 
        
     },
